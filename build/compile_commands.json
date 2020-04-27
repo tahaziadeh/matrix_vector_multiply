@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/tahaziadeh/Desktop/learning/C++/Example/build",
+  "command": "/usr/bin/c++    -g   -std=gnu++14 -o CMakeFiles/MatrixVectorMultiply.dir/MatrixVectorMultiply.cpp.o -c /home/tahaziadeh/Desktop/learning/C++/Example/MatrixVectorMultiply.cpp",
+  "file": "/home/tahaziadeh/Desktop/learning/C++/Example/MatrixVectorMultiply.cpp"
+},
+
+{
+  "directory": "/home/tahaziadeh/Desktop/learning/C++/Example/build",
+  "command": "/usr/bin/c++   -isystem ../googletest/googlemock/include -isystem ../googletest/googlemock -isystem ../googletest/googletest/include -isystem ../googletest/googletest  -g   -Wall -Wshadow -Werror -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++14 -o googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /home/tahaziadeh/Desktop/learning/C++/Example/googletest/googlemock/src/gmock_main.cc",
+  "file": "/home/tahaziadeh/Desktop/learning/C++/Example/googletest/googlemock/src/gmock_main.cc"
+},
+
+{
+  "directory": "/home/tahaziadeh/Desktop/learning/C++/Example/build",
+  "command": "/usr/bin/c++   -I../googletest/googlemock/include -I../googletest/googlemock -isystem ../googletest/googletest/include -isystem ../googletest/googletest  -g   -Wall -Wshadow -Werror -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++14 -o googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /home/tahaziadeh/Desktop/learning/C++/Example/googletest/googlemock/src/gmock-all.cc",
+  "file": "/home/tahaziadeh/Desktop/learning/C++/Example/googletest/googlemock/src/gmock-all.cc"
+},
+
+{
+  "directory": "/home/tahaziadeh/Desktop/learning/C++/Example/build",
+  "command": "/usr/bin/c++   -isystem ../googletest/googletest/include -isystem ../googletest/googletest  -g   -Wall -Wshadow -Werror -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++14 -o googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /home/tahaziadeh/Desktop/learning/C++/Example/googletest/googletest/src/gtest_main.cc",
+  "file": "/home/tahaziadeh/Desktop/learning/C++/Example/googletest/googletest/src/gtest_main.cc"
+},
+
+{
+  "directory": "/home/tahaziadeh/Desktop/learning/C++/Example/build",
+  "command": "/usr/bin/c++   -I../googletest/googletest/include -I../googletest/googletest  -g   -Wall -Wshadow -Werror -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++14 -o googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /home/tahaziadeh/Desktop/learning/C++/Example/googletest/googletest/src/gtest-all.cc",
+  "file": "/home/tahaziadeh/Desktop/learning/C++/Example/googletest/googletest/src/gtest-all.cc"
+},
+
+{
+  "directory": "/home/tahaziadeh/Desktop/learning/C++/Example/build",
+  "command": "/usr/bin/c++   -isystem ../googletest/googletest/include -isystem ../googletest/googletest  -g   -std=gnu++14 -o test/CMakeFiles/MatrixVectorMultiplyTests.dir/MatrixVectorMultiplyTests.cpp.o -c /home/tahaziadeh/Desktop/learning/C++/Example/test/MatrixVectorMultiplyTests.cpp",
+  "file": "/home/tahaziadeh/Desktop/learning/C++/Example/test/MatrixVectorMultiplyTests.cpp"
+}
+]
