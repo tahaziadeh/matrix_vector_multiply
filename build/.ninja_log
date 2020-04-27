@@ -43,3 +43,7 @@
 8028	8065	0	lib/libgmockd.a	8153d6031e657fb9
 8065	8081	0	lib/libgmock_maind.a	2dc7fb5aee408637
 8041	8362	0	test/MatrixVectorMultiplyTests	ff4a6e3b5f5961f
+3	117	0	CMakeFiles/MatrixVectorMultiply.dir/MatrixVectorMultiply.cpp.o	eb822d62eace4e
+117	135	0	libMatrixVectorMultiply.a	9e729923a413201
+3	1474	0	test/CMakeFiles/MatrixVectorMultiplyTests.dir/MatrixVectorMultiplyTests.cpp.o	d5e651be9148593
+1474	1801	0	test/MatrixVectorMultiplyTests	ff4a6e3b5f5961f

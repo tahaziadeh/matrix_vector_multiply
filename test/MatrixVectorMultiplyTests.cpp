@@ -50,7 +50,7 @@ TEST(MatrixVectorMultiplyTests, HappyScenario)
     v.v[3] = 1;
 
     vector res;
-    multiply(m, v, res);
+    multiplyMatrixVector(m, v, res);
 
     float firstElement = m.m[0][0] * v.v[0] + m.m[0][1] * v.v[1] + m.m[0][2] * v.v[2] + m.m[0][3] * v.v[3];
     float secondElement = m.m[1][0] * v.v[0] + m.m[1][1] * v.v[1] + m.m[1][2] * v.v[2] + m.m[1][3] * v.v[3];
@@ -113,7 +113,7 @@ TEST(MatrixVectorMultiplyTests, DimensionMismatch)
     v.v[3] = 1;
 
     vector res;
-    multiply(m, v, res);
+    multiplyMatrixVector(m, v, res);
 
     EXPECT_EQ(true, res.isEmpty);
 }

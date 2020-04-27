@@ -14,5 +14,5 @@ class vector;
 class matrix;
 class matrix_wrong;
 template <class M, class V>
-void multiply(M m, V v, V &result);
+void multiplyMatrixVector(M m, V v, V &result);
 #endif
